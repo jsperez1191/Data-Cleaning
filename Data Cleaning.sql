@@ -1,6 +1,6 @@
 -- Data Cleaning
 
--- 1. Remove Duplicated
+-- 1. Remove Duplicates
 -- 2. Standardized the Data
 -- 3. Null Values or Blank Values
 -- 4. Remove any Columns or Rows
